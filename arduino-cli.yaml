@@ -1,0 +1,12 @@
+board_manager:
+  additional_urls: []
+daemon:
+  port: "50051"
+directories:
+  data: /home/mathix/.arduino15
+  downloads: /home/mathix/.arduino15/staging
+  user: /home/mathix/Arduino
+logging:
+  file: ""
+  format: text
+  level: info
